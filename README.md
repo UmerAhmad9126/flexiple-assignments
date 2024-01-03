@@ -6,6 +6,15 @@ Where user can Add, Delete, Edit and Pin Notes.
 
 # Demo Video Link :- https://drive.google.com/file/d/1WKepogMWvKLxJOzfH3o_vfTWwimRRFr9/view?usp=drive_link
 
+# Steps to run locally :-
+
+<ul>
+  <li>git clone </li>
+  <li>npm install</li>
+  <li>npm start</li>
+</ul>
+
+
 # Tech Stack Used :-
 <ul>
   <li>Html</li>
