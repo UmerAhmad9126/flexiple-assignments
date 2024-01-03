@@ -9,7 +9,7 @@ Where user can Add, Delete, Edit and Pin Notes.
 # Steps to run locally :-
 
 <ul>
-  <li>git clone </li>
+  <li>git clone https://github.com/UmerAhmad9126/flexiple-assignments.git</li>
   <li>npm install</li>
   <li>npm start</li>
 </ul>
